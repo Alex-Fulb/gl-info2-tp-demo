@@ -7,7 +7,6 @@ import static org.junit.Assert.assertEquals;
 public class MoneyTest {
 
     @Test
-
     public void testAddEuros() {
 
         Money m1 = new Money(20,"EUR");
