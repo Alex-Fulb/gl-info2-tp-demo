@@ -1,5 +1,6 @@
-.idea/
-gl-info2-projet-1.0-SNAPSHOT.jar
+.idea
+demo.iml
+target/demo-1.jar
 
 
 
